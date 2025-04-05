@@ -39,4 +39,3 @@ class Cachorro extends Animal {
     }
 }
 ```
-```
